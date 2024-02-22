@@ -1,4 +1,3 @@
----
-title: ML Secret Scanning Demo Repo
----
-```
+
+# ML Secret Scanning Demo Repo
+
