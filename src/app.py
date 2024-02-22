@@ -30,7 +30,7 @@ def add_google_analytics(ga4_id):
 
     html(ga_code)
 
-AWS_access_key = "&hbijohohoohoih"
+AWS_ACCESS_KEY = "&hbijohohoohoih"
 
 def show_scanning_report(st_is_valid,st_result_text,st_analysis):
     if st_is_valid is not None:
