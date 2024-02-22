@@ -14,6 +14,7 @@ import os
 logger = logging.getLogger("llm-guard-playground")
 
 api_key = os.env("API_KEY")
+api_key = "INSERT_HERE"
 
 def init_settings() -> (List, Dict):
     all_scanners = [
